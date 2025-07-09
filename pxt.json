@@ -1,0 +1,26 @@
+{
+    "name": "CalBot_CalR3_Send_V2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v3": "*",
+        "funk": "*",
+        "datalogger": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "7.0.3",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
